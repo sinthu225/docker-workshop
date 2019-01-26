@@ -1,4 +1,4 @@
-FROM NODE
+FROM node
 
 ADD . /app
 
